@@ -5,7 +5,6 @@
 
 
 import pandas as pd
-import geopandas as geo
 import numpy as np
 df=pd.read_excel("downloads/gradedata.xlsx")
 df.head()
